@@ -2,6 +2,10 @@
 
 some usefull fsd violation checkers
 
+**Git**: https://github.com/Laygrd/eslint-plugin-laygrd-plugin
+**NPM**: https://www.npmjs.com/package/eslint-plugin-laygrd-plugin
+
+
 ## Installation
 
 You'll first need to install [ESLint](https://eslint.org/):
@@ -48,9 +52,3 @@ Then configure the rules you want to use under the rules section.
     }
 }
 ```
-
-## Supported Rules
-
-* Fill in provided rules here
-
-
