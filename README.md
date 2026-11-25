@@ -3,6 +3,7 @@
 some usefull fsd violation checkers
 
 **Git**: https://github.com/Laygrd/eslint-plugin-laygrd-plugin
+
 **NPM**: https://www.npmjs.com/package/eslint-plugin-laygrd-plugin
 
 
